@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "This is the first log edited & updated",
+      "attention": false,
+      "tech": "jen williams",
+      "date": "2020-10-19T06:25:50.749Z"
+    },
+    {
+      "message": "This is the second Log",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-10-16T19:25:32.457Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "jen",
+      "lastName": "williams",
+      "id": 4
+    }
+  ]
+}
